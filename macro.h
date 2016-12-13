@@ -101,7 +101,7 @@ typedef unsigned long wordnumber_t;
 
 /* ==== Constant strings ==== */
 
-#define VERSIONINFO "LogClusterC version 0.04, \
+#define VERSIONINFO "LogClusterC version 0.05, \
 Copyright (C) 2016 Zhuge Chen, Risto Vaarandi and Mauno Pihelgas"
 
 #define USAGEINFO "\n\

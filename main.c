@@ -1,6 +1,6 @@
 
 /*
- LogClusterC version 0.04
+ LogClusterC version 0.05
  Copyright (C) 2016 Zhuge Chen, Risto Vaarandi and Mauno Pihelgas
  
  This program is free software; you can redistribute it and/or

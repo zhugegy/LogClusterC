@@ -1,11 +1,7 @@
 # C-based Implementation of LogCluster Algorithm
 
-*Where is the executable file:*
-Both the debug and release versions of LogClusterC are in folder "dist". 
-
-*How to manually compile the source files:*
-- Option 1: In terminal, change directory to this folder and execute "make" command. The source files will then be compiled, and the executable file will be generated in folder "dist".
-- Option 2: Open this folder via NetBeans IDE (version 8.2 was used in this project's development).
+**How to manually compile the source files:**
+In terminal, change directory to this folder and execute "gcc -O2 -o logclusterc *.c" command. The executable file named "logclusterc" then will be generated.
 
 LogCluster is a density-based data clustering algorithm for event logs, introduced by Risto Vaarandi and Mauno Pihelgas in 2015.
  
