@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <itemPath>aggregate_supports_heuristic.h</itemPath>
+      <itemPath>cluster_candidates.h</itemPath>
+      <itemPath>clusters.h</itemPath>
+      <itemPath>common_header.h</itemPath>
+      <itemPath>free_resource.h</itemPath>
+      <itemPath>frequent_words.h</itemPath>
+      <itemPath>hash_table_processing.h</itemPath>
+      <itemPath>join_clusters_heuristic.h</itemPath>
+      <itemPath>line_processing.h</itemPath>
+      <itemPath>macro.h</itemPath>
+      <itemPath>outliers.h</itemPath>
+      <itemPath>output.h</itemPath>
+      <itemPath>preparation.h</itemPath>
+      <itemPath>struct.h</itemPath>
+      <itemPath>utility.h</itemPath>
+      <itemPath>word_filter_search_replace.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>aggregate_supports_heuristic.c</itemPath>
+      <itemPath>cluster_candidates.c</itemPath>
+      <itemPath>clusters.c</itemPath>
+      <itemPath>free_resource.c</itemPath>
+      <itemPath>frequent_words.c</itemPath>
+      <itemPath>hash_table_processing.c</itemPath>
+      <itemPath>join_clusters_heuristic.c</itemPath>
+      <itemPath>line_processing.c</itemPath>
+      <itemPath>main.c</itemPath>
+      <itemPath>outliers.c</itemPath>
+      <itemPath>output.c</itemPath>
+      <itemPath>preparation.c</itemPath>
+      <itemPath>utility.c</itemPath>
+      <itemPath>word_filter_search_replace.c</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+          <standard>3</standard>
+        </cTool>
+      </compileType>
+      <item path="aggregate_supports_heuristic.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="aggregate_supports_heuristic.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="cluster_candidates.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="cluster_candidates.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="clusters.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="clusters.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="common_header.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="free_resource.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="free_resource.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="frequent_words.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="frequent_words.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="hash_table_processing.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="hash_table_processing.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="join_clusters_heuristic.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="join_clusters_heuristic.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="line_processing.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="line_processing.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="macro.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="outliers.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="outliers.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="output.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="output.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="preparation.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="preparation.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="struct.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="utility.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="utility.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="word_filter_search_replace.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="word_filter_search_replace.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+          <standard>3</standard>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="aggregate_supports_heuristic.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="aggregate_supports_heuristic.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="cluster_candidates.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="cluster_candidates.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="clusters.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="clusters.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="common_header.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="free_resource.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="free_resource.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="frequent_words.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="frequent_words.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="hash_table_processing.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="hash_table_processing.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="join_clusters_heuristic.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="join_clusters_heuristic.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="line_processing.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="line_processing.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="macro.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="outliers.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="outliers.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="output.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="output.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="preparation.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="preparation.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="struct.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="utility.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="utility.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="word_filter_search_replace.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="word_filter_search_replace.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
