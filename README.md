@@ -1,5 +1,11 @@
 # C-based Implementation of LogCluster Algorithm
 
+![title_img](doc/title_img.gif)
+
+Video Demo: [Vimeo](https://vimeo.com/433554834)
+
+Executable File Download: [Google Drive](https://drive.google.com/drive/folders/1X0Kv1O9mHvxNCU2XaVkYsafQ_KPFg2kF?usp=sharing)
+
 Compiling Environment: Linux
 
 **How to manually compile the source files:**
