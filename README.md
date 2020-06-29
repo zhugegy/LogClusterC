@@ -2,7 +2,7 @@
 
 ![title_img](doc/title_img.gif)
 
-Video Demo: [Vimeo](https://vimeo.com/433554834)
+Video Demo (content is same as the above GIF): [Vimeo](https://vimeo.com/433554834)
 
 Executable File Download: [Google Drive](https://drive.google.com/drive/folders/1X0Kv1O9mHvxNCU2XaVkYsafQ_KPFg2kF?usp=sharing)
 
